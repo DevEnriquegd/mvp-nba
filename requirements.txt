@@ -1,0 +1,12 @@
+# Requirements inferred from `mvp_nba.ipynb`
+# Core data science libraries used in the notebook
+pandas>=1.5
+numpy>=1.24
+matplotlib>=3.6
+
+# Jupyter / IPython to run the notebook interactively
+jupyter>=1.0
+ipython>=8.0
+
+# If you plan to run in a virtual environment created by this repo script,
+# the script will install these packages automatically.
